@@ -2,9 +2,9 @@
 
 ## Student information
 
-**Student name:** *YOUR NAME HERE*
+**Student name:Moses *YOUR NAME HERE*
 
-**GitHub repository URL:** *PASTE YOUR REPOSITORY URL HERE*
+**GitHub repository URL:  *PASTE YOUR REPOSITORY URL HERE*
 
 **Render application URL:** *PASTE YOUR RENDER URL HERE*
 
