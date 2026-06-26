@@ -38,13 +38,13 @@
 
 ### Presentation endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/presentation*
+**URL:https://final-exam-moses.onrender.com/presentation *PASTE YOUR RENDER URL HERE/presentation*
 
-**Expected result:** *Result of the call*
+**Expected result:Final Exam - Production *Result of the call*
 
 ### Correction endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/correction*
+**URL:https://final-exam-moses.onrender.com/correction *PASTE YOUR RENDER URL HERE/correction*
 
 **Error after first call:** *Put the result of the first call*
 
